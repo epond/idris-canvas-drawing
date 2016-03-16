@@ -1,3 +1,6 @@
 package canvas
 
 modules = Canvas
+        , Test.Canvas
+
+tests = Test.Canvas.testCanvas
