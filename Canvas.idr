@@ -1,3 +1,5 @@
+module Canvas
+
 import Data.Vect
 
 pixel : Vect 1 Nat
